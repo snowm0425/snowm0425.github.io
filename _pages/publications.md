@@ -4,7 +4,7 @@ title: Publications
 permalink: /publications/
 ---
 
-Yu-Hui Huang, Marc Proesmans and Luc Van Gool. Uncertainty Based Model Selection for Fast Semantic Segmentation. Machine Vision Applications 2019 (oral).
+<b>Yu-Hui Huang</b>, Marc Proesmans and Luc Van Gool. Uncertainty Based Model Selection for Fast Semantic Segmentation. Machine Vision Applications 2019 (oral).
 
 Yu-Hui Huang, Xu Jia, Stamatios Georgoulis, Tinne Tuytelaars, and Luc Van Gool. Error Correction for Dense Semantic Image Labeling. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops 2018 : Autonomous Driving Workshop.
 
