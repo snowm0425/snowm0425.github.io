@@ -1,6 +1,6 @@
 ---
 layout: page
-title: ---Under Construction---
+title: Under Construction...
 permalink: /lab/
 ---
 
