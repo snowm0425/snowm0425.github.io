@@ -10,4 +10,3 @@ Yu-Hui Huang (黃郁惠) is an assistant professor in EE at Yuan Ze University. 
 <img src="/images/IMG_20191229_142402.jpg" width="800" height="600">
 
 
-![](https://github.com/snowm0425/snowm0425.github.io/images/IMG_20191229_142402.jpg)  
