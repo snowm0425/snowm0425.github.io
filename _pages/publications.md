@@ -3,6 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
+Peimao Sun, Han Fu, <b>Yu-Hui Huang</b>. Depth and Semantic Aware Image Generation. TAAI 2022 Domestic Track (oral).
 
 <b>Yu-Hui Huang</b>, Marc Proesmans and Luc Van Gool. Uncertainty Based Model Selection for Fast Semantic Segmentation. Machine Vision Applications 2019 (oral).
 
