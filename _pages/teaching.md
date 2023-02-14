@@ -13,6 +13,6 @@ Fall  2022, EEA216A/EEA216B Data Structure (資料結構)
 Spring 2023, EI107/ EEA112B Digital Logic Design  邏輯電路設計
 
 Spring 2023, EEA695 Deep Learning and its Vision Applications (深度學習與視覺應用）
-------欲加簽同學請在 2/15 23:59前[填寫此表單](https://forms.gle/7ZcHhJ5JATNTC38N8)
+------欲加簽同學請在 2/15 13:00前[填寫此表單](https://forms.gle/7ZcHhJ5JATNTC38N8)
 
        
