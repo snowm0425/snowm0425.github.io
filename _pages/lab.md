@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Lab
+title: Computer Vision Lab (CVL)
 permalink: /lab/
 ---
 
