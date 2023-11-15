@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 <b>Yu-Hui Huang</b>, Marc Proesmans, and Luc Van Gool. Padding Investigations for CNNs in Scene Parsing Tasks. Machine Vision Applications 2023 (oral).
 
-Yu-Hui Huang. Uncertainty based Error Correction Model for Semantic Segmentation. DSSV&ECDA 2023 (poster).
+<b>Yu-Hui Huang</b>. Uncertainty based Error Correction Model for Semantic Segmentation. DSSV&ECDA 2023 (poster).
 
 Peimao Sun, Han Fu, and <b>Yu-Hui Huang</b>. Depth and Semantic Aware Image Generation. TAAI 2022 Domestic Track (oral).
 
