@@ -12,10 +12,14 @@ Chun An Chou
 Ching Yen Tseng 
 
 
-<b>Undergraduate Students</b>
+<b>Undergraduate Thesis Projects </b>
 
-...
+Real time Human Segmentation - Ｗenjin Don
+Depth and Semantic Aware Image Generation - Pei-Mao Sun & Han Fu
 
+<b>Interns </b>
+Nattapat Sudprasert
+Rattanun Khempimuk
 
 <b>Alumni</b>
 
