@@ -41,5 +41,7 @@ Peimao Sun (Master Program in National Taiwan University of Science and Technolo
 
 CVL currently collaborates with Google, Industrial Technology Research Institute (ITRI) and National Science and Technology Council (NSTC).
 
-<img src="/images/logo_GoogleResearch.png" width="440" height="68"> <img src="/images/NSTC_logo.png" width="440" height="68">
+<img src="/images/logo_GoogleResearch.png" width="472" height="68"> 
+<img src="/images/itri_log.png" width="288" height="68">
+<img src="/images/NSTC_logo.png" width="440" height="68">
 
