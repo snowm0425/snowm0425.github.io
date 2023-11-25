@@ -25,6 +25,8 @@ permalink: /lab/
 - Real time Human Segmentation - Ｗenjin Don
 
 - Depth and Semantic Aware Image Generation - Pei-Mao Sun & Han Fu
+  
+- Error Correction for Few-shot Semantic Segmentation - Nhi Tuyet Nguyen
 
 
 
