@@ -3,22 +3,25 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-<b>Yu-Hui Huang</b>, Marc Proesmans, and Luc Van Gool. Padding Investigations for CNNs in Scene Parsing Tasks. Machine Vision Applications 2023 (oral).
 
-<b>Yu-Hui Huang</b>. Uncertainty based Error Correction Model for Semantic Segmentation. DSSV&ECDA 2023 (poster).
+- Nhi Tuyet Nguyen, <b>Yu-Hui Huang</b>. Error Correction for Few-shot Semantic Segmentation. TAAI Domestic Track 2023 (oral) 
 
-Peimao Sun, Han Fu, and <b>Yu-Hui Huang</b>. Depth and Semantic Aware Image Generation. TAAI 2022 Domestic Track (oral).
+- <b>Yu-Hui Huang</b>, Marc Proesmans, and Luc Van Gool. Padding Investigations for CNNs in Scene Parsing Tasks. Machine Vision Applications 2023 (oral).
 
-<b>Yu-Hui Huang</b>, Marc Proesmans and Luc Van Gool. Uncertainty Based Model Selection for Fast Semantic Segmentation. Machine Vision Applications 2019 (oral).
+- <b>Yu-Hui Huang</b>. Uncertainty based Error Correction Model for Semantic Segmentation. DSSV&ECDA 2023 (poster).
 
-<b>Yu-Hui Huang</b>, Xu Jia, Stamatios Georgoulis, Tinne Tuytelaars, and Luc Van Gool. Error Correction for Dense Semantic Image Labeling. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops 2018 : Autonomous Driving Workshop.
+- Peimao Sun, Han Fu, and <b>Yu-Hui Huang</b>. Depth and Semantic Aware Image Generation. TAAI 2022 Domestic Track (oral).
 
-Kaili Wang, <b>Yu-Hui Huang</b>, Jose Oramas, Luc Van Gool, and Tinne Tuytelaars. An analysis of Human-centered Geolocation. 2018 IEEE Winter Conference on Applications of Computer Vision (WACV).
+- <b>Yu-Hui Huang</b>, Marc Proesmans and Luc Van Gool. Uncertainty Based Model Selection for Fast Semantic Segmentation. Machine Vision Applications 2019 (oral).
 
-Xuanli Chen, David Burn, <b>Yu-Hui Huang</b>, Serafina Beck, Radu Timofte, and Luc Van Gool. TAMIR: A Toolbox for Recognition and Transcription of Music Manuscripts in Mensural Notation. Music Encoding Conference Proceedings 2015, 2016 and 2017.
+- <b>Yu-Hui Huang</b>, Xu Jia, Stamatios Georgoulis, Tinne Tuytelaars, and Luc Van Gool. Error Correction for Dense Semantic Image Labeling. Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition Workshops 2018 : Autonomous Driving Workshop.
 
-<b>Yu-Hui Huang</b>, José Oramas, Tinne Tuytelaars, and Luc Van Gool. Do Motion Boundaries Improve Semantic Segmentation? European Conference on Computer Vision 2016 Workshop.
+- Kaili Wang, <b>Yu-Hui Huang</b>, Jose Oramas, Luc Van Gool, and Tinne Tuytelaars. An analysis of Human-centered Geolocation. 2018 IEEE Winter Conference on Applications of Computer Vision (WACV).
 
-<b>Yu-Hui Huang</b>, Xuanli Chen, Serafina Beck, David Burn, and Luc Van Gool. Automatic Handwritten Mensural Notation Interpreter: from Manuscript to MIDI Performance”. 16th International Society for Music Information Retrieval Conference 2015. 
+- Xuanli Chen, David Burn, <b>Yu-Hui Huang</b>, Serafina Beck, Radu Timofte, and Luc Van Gool. TAMIR: A Toolbox for Recognition and Transcription of Music Manuscripts in Mensural Notation. Music Encoding Conference Proceedings 2015, 2016 and 2017.
 
-Cai-Zhi Zhu, <b>Yu-Hui Huang</b>, and Shin'ichi Satoh. Multi-image Aggregation for Better Visual Object Retrieval. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
+- <b>Yu-Hui Huang</b>, José Oramas, Tinne Tuytelaars, and Luc Van Gool. Do Motion Boundaries Improve Semantic Segmentation? European Conference on Computer Vision 2016 Workshop.
+
+- <b>Yu-Hui Huang</b>, Xuanli Chen, Serafina Beck, David Burn, and Luc Van Gool. Automatic Handwritten Mensural Notation Interpreter: from Manuscript to MIDI Performance”. 16th International Society for Music Information Retrieval Conference 2015. 
+
+- Cai-Zhi Zhu, <b>Yu-Hui Huang</b>, and Shin'ichi Satoh. Multi-image Aggregation for Better Visual Object Retrieval. 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP)
