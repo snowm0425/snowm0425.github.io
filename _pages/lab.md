@@ -50,7 +50,9 @@ permalink: /lab/
 
 CVL currently collaborates with Google, Industrial Technology Research Institute (ITRI) and National Science and Technology Council (NSTC).
 
-<img src="/images/logo_GoogleResearch.png" width="354" height="51"> 
-<img src="/images/itri_log.png" width="216" height="51">
-<img src="/images/NSTC_logo.png" width="330" height="51">
+<div style="display: flex; justify-content: space-around;">
+ <img src="/images/logo_GoogleResearch.png" alt="Google Research" width="354" height="51"> 
+ <img src="/images/itri_log.png" alt="ITRI" width="216" height="51">
+ <img src="/images/NSTC_logo.png" alt="NSTC" width="330" height="51">
+</div>
 
