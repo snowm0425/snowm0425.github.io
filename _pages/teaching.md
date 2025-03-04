@@ -16,4 +16,13 @@ Spring 2023, EEA695 Deep Learning and its Vision Applications (深度學習與�
 
 Fall 2023, EEA216A/EEA216B Data Structure (資料結構)
 
+Spring 2024, EI107 Digital Logic Design  (邏輯電路設計)
+
+Spring 2024, EEA695 Deep Learning and its Vision Applications (深度學習與視覺應用）
+
+Fall 2024, EEA216A/EEA216B Data Structure (資料結構)
+
+Spring 2025, EI107 Digital Logic Design  (邏輯電路設計)
+
+Spring 2025, EE806 Deep Learning and its Vision Applications (深度學習與視覺應用）
        
