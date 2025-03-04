@@ -4,6 +4,10 @@ title: Publications
 permalink: /publications/
 ---
 
+-	Ya-Chi Ho, Chia-Lin Chang, Tai-Te Lee, <b>Yu-Hui Huang</b>. Physics-Informed Neural Network for Shock Absorber. The 29th International Conference on Technologies and Applications of Artificial Intelligence (TAAI) 2024 International Track (poster).
+
+- Chun-An Chou and <b>Yu-Hui Huang</b>. Egocentric Cooking Motion Dataset. ICRA2024 Workshop: Cooking Robotics: Perception and motion planning (poster).
+  
 - Nhi Tuyet Nguyen, <b>Yu-Hui Huang</b>. Error Correction for Few-shot Semantic Segmentation. TAAI Domestic Track 2023 (oral) 
 
 - <b>Yu-Hui Huang</b>, Marc Proesmans, and Luc Van Gool. Padding Investigations for CNNs in Scene Parsing Tasks. Machine Vision Applications 2023 (oral).
