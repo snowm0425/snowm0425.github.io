@@ -3,11 +3,11 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-- Hui-Yun Deng, Chia-Yun Chiang, Yu-Hui Huang. Cross-Modal Quantization of BLIP-2 Using Activation-Aware Weight Quantization. The 26th Workshop on Synthesis And System Integration of Mixed Information Technologies (SASIMI 2025).
+- Hui-Yun Deng, Chia-Yun Chiang, <b>Yu-Hui Huang</b>. Cross-Modal Quantization of BLIP-2 Using Activation-Aware Weight Quantization. The 26th Workshop on Synthesis And System Integration of Mixed Information Technologies (SASIMI 2025).
 
-- Chia-Lin Chang, Hao-Cheng Hsu, Cen-En Jian, Yu-Hui Huang. Improving Bokeh Simulation on CPUs: Faster Inference and Better Perception. The 26th Workshop on Synthesis And System Integration of Mixed Information Technologies (SASIMI 2025).
+- Chia-Lin Chang, Hao-Cheng Hsu, Cen-En Jian, <b>Yu-Hui Huang</b>. Improving Bokeh Simulation on CPUs: Faster Inference and Better Perception. The 26th Workshop on Synthesis And System Integration of Mixed Information Technologies (SASIMI 2025).
 
-- Yu-Hui Huang. Muscle-Aware Motion Prediction with Digital Humans. BMVA Symposium on Digital Humans (oral).
+- <b>Yu-Hui Huang</b>. Muscle-Aware Motion Prediction with Digital Humans. BMVA Symposium on Digital Humans (oral).
 
 
 -	Ya-Chi Ho, Chia-Lin Chang, Tai-Te Lee, <b>Yu-Hui Huang</b>. Physics-Informed Neural Network for Shock Absorber. The 29th International Conference on Technologies and Applications of Artificial Intelligence (TAAI) 2024 International Track (poster).
